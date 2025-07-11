@@ -44,15 +44,7 @@ This project is a deep learning-based image classification system that uses the 
 
 ---
 
-## 💾 Saving Model
 
-The trained model can be saved with:
-
-```python
-torch.save(model.state_dict(), "vit_infections.pth")
-```
-
----
 
 ## 📦 Dependencies
 
