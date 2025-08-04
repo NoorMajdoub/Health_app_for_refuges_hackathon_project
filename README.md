@@ -25,7 +25,7 @@ This project is a deep learning-based image classification system that uses the 
 
 ---
 
-## 🛠 Model & Training
+##  Model & Training
 
 * **Model**: [`ViT-B/16`](https://huggingface.co/google/vit-base-patch16-224-in21k) (`vit-base-patch16-224-in21k`)
 * **Loss function**: CrossEntropyLoss
