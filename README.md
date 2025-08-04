@@ -36,7 +36,7 @@ This project is a deep learning-based image classification system that uses the 
 
 ---
 
-## ✅ Results
+##  Results
 
 * **Final Train Loss**: `0.0779`
 * **Validation Accuracy**: `97.86%`
