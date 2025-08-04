@@ -46,7 +46,7 @@ This project is a deep learning-based image classification system that uses the 
 
 
 
-## 📦 Dependencies
+##  Dependencies
 
 * `torch`
 * `torchvision`
