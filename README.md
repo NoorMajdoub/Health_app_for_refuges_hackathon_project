@@ -1,5 +1,5 @@
 
-# 🧠 Skin Disease Classification with ViT
+#  Skin Disease Classification with ViT
 
 This project is a deep learning-based image classification system that uses the **Vision Transformer (ViT)** to identify 8 different skin diseases from images.
 
